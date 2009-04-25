@@ -1,0 +1,60 @@
+<style> 
+    body { width: 8.5in; height: 11in; }
+    label  {
+        width: 8em;
+        float: left;
+        text-align: right;
+        margin-right: 0.5em;
+        display: block;
+    }
+    
+    input { 
+        border: 0px;
+        border-bottom: 1px solid;
+    }
+    p { margin: 0px;}
+    
+    legend { font-size: 125%; font-weight: bold;}
+    #mother_info {
+        width: 4in;
+        float: left;            
+    }
+    #father_info { 
+        width: 4in;
+        float: right;
+    }
+    fieldset { margin-top: 1ex; border: 1px solid silver }
+</style>
+<fieldset>
+<label for="child's_name">Child's Name</label>
+<input type="text" name="child's_name" value="" id="child's_name">
+</fieldset>
+# Weekly Signup Form
+
+Complete this form to notify us of the weeks your child will be attending
+camp. There is no limit on the number of weeks your child can attend.
+
+<table width="90%">
+    <tr>
+        <th>Week</th>
+        <th>Dates</th>
+        <th>Initial</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>[% dates %]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>[% dates %]</td>
+        <td></td>
+    </tr>            
+</table>
+
+<fieldset>
+<p><label for="signature">Signature</label><input type="text/submit/hidden/button" name="signature" value="" id="signature"></p>
+<p><label for="date">Date</label><input type="text/submit/hidden/button" name="date" value="" id="date"></p>
+<p><label for="witness">Witness Signature</label><input type="text/submit/hidden/button" name="witness" value="" id="witness"></p>
+<p><label for="date">Date</label><input type="text/submit/hidden/button" name="date" value="" id="date"></p>
+</fieldset>
