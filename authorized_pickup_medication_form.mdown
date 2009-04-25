@@ -1,0 +1,32 @@
+# AUTHORIZED TO REMOVE CHILD (print) LIST ANYONE OTHER THAN YOURSELF
+
+Please attach any an all legal documents relating to removal or non-removal of a child from program if applicable and outline any and all directions relating to said documents.
+
+Anyone not listed below will not be authorized to sign your child out from the program.
+
+Name: <input type="text" name="name1" value="" id="name1">
+Phone:<input type="text" name="phone1" value="" id="phone1">
+
+Name: <input type="text" name="name2" value="" id="name2">
+Phone:<input type="text" name="phone2" value="" id="phone2">
+
+Name: <input type="text" name="name3" value="" id="name3">
+Phone:<input type="text" name="phone3" value="" id="phone3">
+
+Name: <input type="text" name="name4" value="" id="name4">
+Phone:<input type="text" name="phone4" value="" id="phone4">
+
+# Medical / Emotional Conditions
+
+List any *medical* or *emotional* conditions your child has (i.e.. ADHD, Mild Autism, Bi-Polar) Please be specific, this will only help us better understand your child.
+
+<textarea name="medical_conditions" rows="8" cols="60"></textarea>
+
+List any medications the child may be taking. Any medications to be administered during Camp hours require a separate authorization form.
+
+<textarea name="medications" rows="8" cols="60"></textarea>
+
+List any allergies or allergic reactions your child might have (i.e: bee sting, poison ivy, foods).
+
+<textarea name="allergies" rows="8" cols="60"></textarea>
+
