@@ -1,0 +1,43 @@
+# Information Waver Card - PLEASE PRINT
+<style> 
+    body { width: 8.5in; height: 5.5in; }
+    label { display: run-in; padding-right: 3ex; }
+    input { border: 0px; border-bottom: 1px solid; }
+    h2 { font-size: 100%;}
+    #mother_info {  float: left; width: 45%; border-right: 1px solid; margin-right: 2%;}
+
+</style>
+
+<label for="camper_name">Camper Name</label><input type="text/submit/hidden/button" name="camper_name" value="" id="camper_name">
+Male: <input type="radio" name="camper_male" group="gender" value="" id="camper_male">
+Female: <input type="radio" name="camper_female" group="gender" value="" id="camper_female">
+<label for="camper_birthdate">Camper Birthdate</label><input type="text" name="camper_birthdate" value="01/01/01" width="8" id="camper_birthdate">
+<label for="resides_with">Child Resides With</label> <input type="text" name="resides_with" value="" id="resides_with">
+
+<div id="mother_info">
+<h2>Mother's Information</h2>
+<label for="mother_name">Mother's Name</label><input type="text" name="mother_name" value="" id="mother_name">
+<label for="mother_dob">Birth Date</label><input type="text" name="mother_dob" value="" id="mother_dob">
+<label for="mother_address">Address</label><input type="text" name="mother_address" value="" id="mother_address">
+<label for="mother_city">City</label><input type="text" name="mother_city" value="" id="mother_city">
+<label for="mother_state">State</label><input type="text" name="mother_state" value="" id="mother_state">
+<label for="mother_zip">Zip</label><input type="text" name="mother_zip" value="" id="mother_zip">
+<label for="mother_home_phone">Home Phone</label><input type="text" name="mother_home_phone" value="" id="mother_home_phone">
+<label for="mother_work_phone">Work Phone</label><input type="text" name="mother_work_phone" value="" id="mother_work_phone">
+<label for="mother_cell_phone">Cell Phone</label><input type="text" name="mother_cell_phone" value="" id="mother_cell_phone">
+<label for="mother_email">Email</label><input type="text" name="mother_email" value="" id="mother_email">
+</div>
+
+<div id="father_info">
+<h2>Father's Information</h2>
+<label for="father_name">Father's Name</label><input type="text" name="father_name" value="" id="father_name">
+<label for="father_dob">Birth Date</label><input type="text" name="father_dob" value="" id="father_dob">
+<label for="father_address">Address</label><input type="text" name="father_address" value="" id="father_address">
+<label for="father_city">City</label><input type="text" name="father_city" value="" id="father_city">
+<label for="father_state">State</label><input type="text" name="father_state" value="" id="father_state">
+<label for="father_zip">Zip</label><input type="text" name="father_zip" value="" id="father_zip">
+<label for="father_home_phone">Home Phone</label><input type="text" name="father_home_phone" value="" id="father_home_phone">
+<label for="father_work_phone">Work Phone</label><input type="text" name="father_work_phone" value="" id="father_work_phone">
+<label for="father_cell_phone">Cell Phone</label><input type="text" name="father_cell_phone" value="" id="father_cell_phone">
+<label for="father_email">Email</label><input type="text" name="father_email" value="" id="father_email">
+</div>
