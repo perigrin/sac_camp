@@ -1,21 +1,25 @@
+<style>
+input { 
+    border: 0px;
+    border-bottom: 1px solid;
+}
+</style>
 # Minor Child Agreement and Waver
 
-> The undersigned parent (or legal guardian) of ______________________ , a
+> The undersigned parent (or legal guardian) of <input type="text"> , a
 > minor child, herby consents to participation of said child in all
-> Super Awesome Cool activities (Programs(s)), including but not limited
-> to, [x] and field trips with our without transportation provided by
-> Super Awesome Cool. I do hereby acknowledge and agree that the named
-> minor child must be ____ (__) years old or older to participated in any
-> Program. In the event that the minor child should sustain emergency injuries
-> or illness while participating in the programs, I do hear by
-> authorized Super Awesome Cool to administer, or cause to be
-> administered such first aid or other treatment as may be necessary
-> under the circumstances, to include treatment by a physician or
-> hospital if the parent or guardian is not available. Any such firs aid
-> or treatment is expressly limited to emergency situations and is
-> expressly understood that, except as provided herein, Super Awesome Cool 
-> will not provide, or be responsible for the provision of, medicine of
-> any kind to the minor child.
+> Super Awesome Cool activities (Programs(s)) I do hereby acknowledge and 
+> agree that the named minor child must be <input type="text" size="2">
+> years old or older to participated in any Program. In the event that
+> the minor child should sustain emergency injuries or illness while
+> participating in the programs, I do hear by authorized Super Awesome
+> Cool to administer, or cause to be administered such first aid or
+> other treatment as may be necessary under the circumstances, to
+> include treatment by a physician or hospital if the parent or guardian
+> is not available. Any such first aid or treatment is expressly limited
+> to emergency situations and is expressly understood that, except as
+> provided herein, Super Awesome Cool will not provide, or be
+> responsible for the provision of, medicine of any kind to the minor child.
 
 > In consideration of the services to be performed by Super Awesome Cool and the
 > participation of the minor child in Programs, the parent/legal guardian, on
@@ -30,7 +34,7 @@
 > photographs, recordings, video or pictures of any kind depicting the minor
 > child participating in the Programs.
 
-Initial: ___ I have received and will read the information contained in the
-2009 camp manual which includes the registration and payment policy. I will
-review this information with my child and we will abide by the polices set by
-Super Awesome Cool.
+Initial: <input type="text" size="3"> I have received and will read the
+information contained in the 2009 camp manual which includes the registration
+and payment policy. I will review this information with my child and we will
+abide by the polices set by Super Awesome Cool.
