@@ -25,16 +25,17 @@
     fieldset { margin-top: 1ex; border: 1px solid silver }
 </style>
 
-<fieldset>
-<label for="child's_name">Child's Name</label>
-<input type="text" name="child's_name" value="" id="child's_name">
-</fieldset>
 # Injury/Illness Form
 
 Thank you for participating in our Summer Camp program this year! An
 accident/incident report will be completed for ***All*** illness and injuries.
 *A copy of this report will be attached to your child's registration card so
 that you will have it for your records*
+
+<fieldset>
+<label for="child's_name">Child's Name</label>
+<input type="text" name="child's_name" value="" id="child's_name">
+</fieldset>
 
 ## Contact Information
 Numbers will be called in the order they appear here:

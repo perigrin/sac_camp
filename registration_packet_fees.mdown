@@ -14,12 +14,15 @@ us know so we may update our records.
 Weekly/Child
 
 * 1st Child - $90.00
-* 2nd Child - $81.0
+* 2nd Child - $81.00
 
-Each child picked up after 12 pm is subject to a late fee: The time of pickup is
+Multiple Weeks will receive a 10% discount.
+
+Each child picked up after 12pm is subject to a late fee: The time of pickup is
 noted by the Supervisor on duty and is official Super Awesome Cool time.
 
-If your child is picked up after 12:10 the person picking them up is subject to a $1 a minute late fee
+If your child is picked up after 12:10pm the person picking them up is subject
+to a $1 a minute late fee
 
 Late fees must be paid at the time of pick up and is payable directly to to
 the counselor. Determination of the late fees will be based on the Super
@@ -33,7 +36,7 @@ your child if you are running late.
 
 # Hours of Operation
 
-[% 9am-12pm %]
+9am-12pm
 
 # Sign In and Sign Out
 

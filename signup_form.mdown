@@ -3,11 +3,9 @@
     label  {
         width: 8em;
         float: left;
-        text-align: right;
         margin-right: 0.5em;
         display: block;
     }
-    
     input { 
         border: 0px;
         border-bottom: 1px solid;
@@ -24,34 +22,148 @@
         float: right;
     }
     fieldset { margin-top: 1ex; border: 1px solid silver }
+    th { text-align: left;}
+    td { margin-top: 5em;}
+    h3 { margin: 0px;}
+    
 </style>
-<fieldset>
-<label for="child's_name">Child's Name</label>
-<input type="text" name="child's_name" value="" id="child's_name">
-</fieldset>
+
 # Weekly Signup Form
 
 Complete this form to notify us of the weeks your child will be attending
 camp. There is no limit on the number of weeks your child can attend.
 
+<fieldset>
+<label for="child's_name">Child's Name</label>
+<input type="text" name="child's_name" value="" id="child's_name">
+</fieldset>
+
+## Camp Schedule
+<fieldset>
 <table width="90%">
     <tr>
-        <th>Week</th>
         <th>Dates</th>
-        <th>Initial</th>
+        <th>Description</th>
+        <th style="text-align: center">Initials</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>[% dates %]</td>
-        <td></td>
+        <td>Jun 8-12</td>
+        <td style="width: 30em">
+            <h3>Board Game Design</h3>
+            <p> We will explore different board game concepts and will design
+            our own from the pieces to the box. </p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>[% dates %]</td>
-        <td></td>
-    </tr>            
+        <td>Jun 15-19</td>
+        <td style="width: 30em">
+            <h3>History through Art, Print and Drawing</h3>
+            <p>Explore artists and their techiques. This calss will take an
+            exploratory approach to art history and appreciation as we learn
+            old and new techniques for making art.</p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>
+    <tr>
+        <td>Jun 22-26</td>
+        <td style="width: 30em">
+            <h3>Potter's Wheel and Sculpture</h3>
+            <p> Explore the potter's wheel as well as sculpture in this
+            exciting week of spin spin spinning! We will start with the bowl
+            form on the wheel. More experienced students will have the
+            opportunity to learn more advanced forms. In sculpture we will
+            explore hand building with clay as well as other mediums. </p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>
+    <tr>
+        <td>Jun 29-July 3</td>
+        <td style="width: 30em">
+            <h3>Mosaic Art</h3>
+            <p> Learn the ancient art of mosaics, incorporating broken pottery
+            and other recycled materials. This class will explore different
+            mosaic techniques.</p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>
+    <tr>
+        <td>July 6 - 10</td>
+        <td style="width: 30em">
+            <h3>Book Design, Print Making, Drawing</h3>
+            <p>Write, design and bind your own book Work with artists to combine
+            your ideas, images, and stories into amazing one of a kind books.
+            This camp will include elements of writing, design, drawing and
+            printmaking.</p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>   
+    <tr>
+        <td>July 13 - 17</td>
+        <td style="width: 30em">
+            <h3>Board Game Design</h3>
+            <p> We will explore different board game concepts and will design
+            our own from the pieces to the box. </p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>   
+    <tr>
+        <td>July 20-24</td>
+        <td style="width: 30em">
+            <h3>History through Art, Print and Drawing</h3>
+            <p>Explore artists and their techiques. This calss will take an
+            exploratory approach to art history and appreciation as we learn
+            old and new techniques for making art.</p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>     
+    <tr>
+        <td>July 27-31</td>
+        <td style="width: 30em">
+            <h3>Potter's Wheel and Clay Boxes</h3>
+            <p> Explore the potter's wheel as well as sculpture in this
+            exciting week of spin spin spinning! We will start with the bowl
+            form on the wheel. More experienced students will have the
+            opportunity to learn more advanced forms. In boxes kids will
+            sculpt boxes out of slabs for all their cool stuff! </p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>     
+    <tr>
+        <td>Aug 3-7</td>
+        <td style="width: 30em">
+            <h3>Book Design, Print Making, Drawing</h3>
+            <p>Write, design and bind your own book Work with artists to combine
+            your ideas, images, and stories into amazing one of a kind books.
+            This camp will include elements of writing, design, drawing and
+            printmaking.</p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>
+    <tr>
+        <td>Aug 10-14</td>
+        <td style="width: 30em">
+            <h3>Mosaic Art</h3>
+            <p> Learn the ancient art of mosaics, incorporating broken pottery
+            and other recycled materials. This class will explore different
+            mosaic techniques.</p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr> 
+    <tr>
+        <td>Aug 17-21</td>
+        <td style="width: 30em">
+            <h3>Potter's Wheel and Jars</h3>
+            <p> Explore the potter's wheel as well as sculpture in this
+            exciting week of spin spin spinning! We will start with the bowl
+            form on the wheel. More experienced students will have the
+            opportunity to learn more advanced forms. In boxes kids will
+            sculpt jars out of pinch pot coils the way the ancients did! </p>
+        </td>
+        <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
+    </tr>   
 </table>
-
+</fieldset>
 <fieldset>
 <p><label for="signature">Signature</label><input type="text/submit/hidden/button" name="signature" value="" id="signature"></p>
 <p><label for="date">Date</label><input type="text/submit/hidden/button" name="date" value="" id="date"></p>
