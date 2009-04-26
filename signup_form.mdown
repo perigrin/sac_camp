@@ -59,9 +59,9 @@ camp. There is no limit on the number of weeks your child can attend.
         <td>Jun 15-19</td>
         <td style="width: 30em">
             <h3>History through Art, Print and Drawing</h3>
-            <p>Explore artists and their techiques. This calss will take an
+            <p>Explore artists and their techniques. This class will take an
             exploratory approach to art history and appreciation as we learn
-            old and new techniques for making art.</p>
+            old and new techniques for making art. </p>
         </td>
         <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
     </tr>
@@ -111,9 +111,9 @@ camp. There is no limit on the number of weeks your child can attend.
         <td>July 20-24</td>
         <td style="width: 30em">
             <h3>History through Art, Print and Drawing</h3>
-            <p>Explore artists and their techiques. This calss will take an
+            <p>Explore artists and their techniques. This class will take an
             exploratory approach to art history and appreciation as we learn
-            old and new techniques for making art.</p>
+            old and new techniques for making art. </p>
         </td>
         <td valign="bottom" align="center"><input type="text" name="inital" value="" size="3" id="inital"></td>
     </tr>     
